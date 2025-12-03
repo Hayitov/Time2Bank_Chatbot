@@ -60,3 +60,4 @@ Server path: `/root/Chatbot` on `root@46.101.202.97`.
 - Embeddings are generated on first run (or when the DOCX changes) and cached at `data/embeddings.pkl`.
 - QA model defaults to `gpt-4o` for accuracy; adjust via `QA_MODEL` in `.env` if desired.
 # Chatbot
+# Chatbot
